@@ -1,2 +1,2 @@
 def add(x, y):
-    pass
+    return (X+y)
